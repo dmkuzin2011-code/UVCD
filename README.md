@@ -189,4 +189,4 @@ into a Rich table; unknown status values are automatically color-coded.
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+MIT — see [LICENSE](LICENSE.txt).
