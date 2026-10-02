@@ -1,0 +1,22 @@
+# Go
+bin/
+*.exe
+*.test
+*.out
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.idea/
+.vscode/
+
+# Logs / temp
+*.log
+tmp/
